@@ -6,6 +6,9 @@ Repository for Task 1
 Three data analytics projects completed during my internship at Decode Labs,
 using Excel,and SQL Server, for data cleaning, analysis, and querying.
 
+Excel and SQL File Folder
+https://github.com/peduke17/Task-1-EdukePrincess/tree/main/DECODELABS%20PROJECT
+
 ---
 
 ## Project 1: Data Cleaning & Preparation
