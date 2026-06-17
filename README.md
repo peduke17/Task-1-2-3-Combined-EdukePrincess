@@ -7,8 +7,7 @@ Three data analytics projects completed during my internship at Decode Labs,
 using Excel,and SQL Server, for data cleaning, analysis, and querying.
 
 Excel and SQL File Folder
-
-https://github.com/peduke17/Task-1-EdukePrincess/tree/main/DECODELABS%20PROJECT
+(https://github.com/peduke17/Task-1-2-3-Combined-EdukePrincess/tree/main/DECODELABS%20PROJECT)
 
 ---
 
